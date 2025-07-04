@@ -31,7 +31,7 @@
 
 - 🎓 **Computer Science Graduate**  
 - 📊 Specialized in **Data Science**, **Analytics**, and **Engineering**  
-- 🧠 Passionate about transforming raw data into meaningful narratives
+- 🧠 Passionate about transforming raw data into meaningful insights.
 
 
 ## 🧰 Tech Stack
