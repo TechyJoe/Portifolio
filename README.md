@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm <span style="color:#00BFFF;">Joseph Juma</span> 👋</h1>
 
 <p align="left">
-  <em> Data Scientist | Data Engineer </em>
+  <em> Data Scientist | Data Analyst </em>
 </p>
 
 ---
